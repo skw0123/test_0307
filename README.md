@@ -6,7 +6,7 @@
 ###### 6. [YouTube](youtube.com)
 #### --- 
 7. [ ] 할 일 
-8. [x] 완료된 일
+   [x] 완료된 일
 >인용문
 10. :smile:
 11. ``` bash test ```
